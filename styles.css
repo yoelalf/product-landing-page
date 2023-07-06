@@ -2,6 +2,10 @@
     --green-color:linear-gradient(90deg, rgba(0,25,31,1) 0%, rgba(0,167,50,1) 45%, rgba(0,45,60,1) 100%);;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 *{
     font-family: Helvetica, sans-serif;
 }
@@ -181,6 +185,19 @@ main{
     text-align: center;
     font-weight: 800;
 }
+
+#p-demonstration{
+    margin-top: 0;
+}
+
+/* Pricing */
+#Pricing h1{
+    text-align:center;
+    font-weight:800;
+    margin-bottom:10px;
+}
+
+
 
 
 @media only screen and (max-width:768px){
