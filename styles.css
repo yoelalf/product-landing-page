@@ -197,6 +197,15 @@ main{
     margin-bottom:10px;
 }
 
+.flex-center{
+    box-shadow: none !important;
+}
+
+.large{
+    font-size: 3em;
+    font-weight: 800;
+    padding: 10px;
+}
 
 
 
